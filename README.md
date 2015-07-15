@@ -1,2 +1,2 @@
 # SlideDecks
-A repository of all the slide deck for all of the talks I have presented
+A repository of all the slidedecks for the talks I have done / presented on
